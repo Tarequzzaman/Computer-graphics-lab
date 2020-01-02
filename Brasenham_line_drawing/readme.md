@@ -1,8 +1,8 @@
-<h3>Bresenham Line drawing algorithm<h3>
+<h3>Bresenham Line drawing algorithm</h3>
    
    
    
-<p>This algorithm is used for scan converting a line. It was developed by Bresenham<p>
+<p>This algorithm is used for scan converting a line. </p>
 <p>The method works as follows:<p>
                              Assume a pixel P1'(x1',y1'),then select subsequent pixels as we work our may to the night, one pixel position at a time in the horizontal direction toward P2'(x2',y2').
    1. Once a pixel in choose at any step
