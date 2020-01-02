@@ -12,7 +12,11 @@
  (Xk + 1, Yk) and (Xk + 1, Yk + 1).
 
 <div align="center">
+
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/BresenhamLine.png"/>
+
 </div>
 
 <p>2. We would like to pick the y value (among Yk + 1 and Yk) corresponding to a point that is closer to the original line.</p>
+
+<p>For details visit <a href="https://www.geeksforgeeks.org/bresenhams-line-generation-algorithm/">here</a></p>
